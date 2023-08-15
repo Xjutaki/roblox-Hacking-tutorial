@@ -2,8 +2,8 @@
 туториал по скриптингу в Роблокс    [ Дискорд : --@Xjumu ]
 
 - 1 Вам нужен любой инжектор такие как "Milotic" , "Valyse" итд..
-    Valyse - https://valyse.net/
-    Milotic - https://milotic.xyz/
++ Valyse - https://valyse.net/
++ Milotic - https://milotic.xyz/
 - 2 также нам нужен будет Роблокс из Майкрософт Стор
 - 3 И любая программа для Изменения / написания кода такая как Visual Studio code
   
